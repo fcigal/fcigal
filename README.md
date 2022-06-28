@@ -2,14 +2,16 @@
 I'm Furkan from Turkey, and I do content on Robotics and AI. I like to produce projects and produce solutions for daily life using Python language. I am also very interested in Artificial Intelligence algorithms and Robotics.
 
 ## Skills and Experience
-* 🐍 PYTHON
+* 🐍 Python
+* 🤖 Robotics
 * 🧠 AI
-* 🤖 ROBOTICS
 * 💻 HTML/CSS
-*
+
+
 
 - 🔭 I’m currently working on Python projects 
 - 🌱 I’m currently learning AI, ML, Robotics
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcigal&show_icons=true)
