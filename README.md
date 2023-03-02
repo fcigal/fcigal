@@ -1,5 +1,5 @@
 # Furkan Cığal
-I'm Furkan from Turkey, and I do content on Robotics and AI. I like to produce projects and solutions for daily life using Python language. I am also very interested in Artificial Intelligence Algorithms and Robotics.
+I'm Furkan from Turkey, and I do content on Robotics and AI. I like to produce projects and solutions for daily life using C, C++ and Python languages. I am also very interested in Artificial Intelligence Algorithms and Robotics.
 
 ## Skills and Experience
 * 🐍 Python
